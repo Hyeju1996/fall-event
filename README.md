@@ -8,3 +8,5 @@ This website is about "fall event" website. This is just about basic home page o
 
 - Focus CSS
 - Practice about "hero section looks nice"
+
+- https://hyeju1996.github.io/fall-event/
